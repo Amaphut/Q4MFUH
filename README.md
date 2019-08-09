@@ -11,7 +11,7 @@ Open Command line
 
 `expo start`
 
-##Start Webservice 
+##Start Backend
 Open Command line 
 cd path project Q4MFUH/myapp
 
